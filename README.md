@@ -1,17 +1,22 @@
-### Greetings existence👋
+### Greetings yall👋
 
+I am just a guy\
+Computer Scientist studied at Reykjavík University
 
-<!--
-**Arnpor/Arnpor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Working on**:
+ - Aestetic Wiki Network Graph (I'll add a repo on that later)
+ - [Revert](https://arnporinn.itch.io/revert) (This was a build I made in a weekend btw)
 
-Here are some ideas to get you started:
+Seeking employment\
+Don't get me wrong, I'm working\
+It's just not in tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me here
+---
+ - [Gmail](arnthor74@gmail.com)
+ - [LinkedIn](https://www.linkedin.com/in/arnþór-árni-logason-06a167239/)
+ - [Discord](https://discordapp.com/users/263699077311627264/)
+ - [Twixter](https://twitter.com/Arnpor_)
+ - [Instagram](https://www.instagram.com/arnpor/)
+
+ble :Þ
