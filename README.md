@@ -8,7 +8,7 @@ Computer Scientist studied at Reykjavík University
  - [Revert](https://arnporinn.itch.io/revert) (This was a build I made in a weekend btw)
 
 Seeking employment\
-Don't get me wrong, I'm working\
+Don't worry. I have a job\
 It's just not in tech
 
 You can reach me here
