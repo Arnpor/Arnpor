@@ -4,7 +4,7 @@ I am just a guy\
 Computer Scientist studied at Reykjavík University
 
 **Working on**:
- - Aestetic Wiki Network Graph (I'll add a repo on that later)
+ - Aesthetic Wiki Network Graph (I'll add a repo on that later)
  - [Revert](https://arnporinn.itch.io/revert) (This was a build I made in a weekend btw)
 
 Seeking employment\
