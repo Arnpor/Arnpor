@@ -7,10 +7,6 @@ Computer Scientist studied at Reykjavík University
  - Aesthetic Wiki Network Graph (I'll add a repo on that later)
  - [Revert](https://arnporinn.itch.io/revert) (This was a build I made in a weekend btw)
 
-Seeking employment\
-Don't worry. I have a job\
-It's just not in tech
-
 You can reach me here
 ---
  - [Gmail](arnthor74@gmail.com)
