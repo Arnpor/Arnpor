@@ -5,7 +5,14 @@ Computer Scientist studied at Reykjavík University
 
 **Working on**:
  - Aesthetic Wiki Network Graph (I'll add a repo on that later)
- - [Revert](https://arnporinn.itch.io/revert) (This was a build I made in a weekend btw)
+
+**Games I've made**
+ - [Canvas Crisis](https://freezyblanco.itch.io/canvas-crisis)
+ - [Office Escape](https://freezyblanco.itch.io/office-escape)
+ - [The White Knight Rises](https://arnporinn.itch.io/the-white-knight-rises)
+ - [Life of an Elite](https://arnporinn.itch.io/the-life-of-an-elite)
+ - [The Ocilloscope](https://arnporinn.itch.io/the-oscilloscope)
+ - [Revert](https://arnporinn.itch.io/revert)
 
 You can reach me here
 ---
