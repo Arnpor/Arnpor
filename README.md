@@ -1,10 +1,6 @@
 ### Greetings yall👋
 
-I am just a guy\
 Computer Scientist studied at Reykjavík University
-
-**Working on**:
- - Aesthetic Wiki Network Graph (I'll add a repo on that later)
 
 **Games I've made**
  - [Canvas Crisis](https://freezyblanco.itch.io/canvas-crisis)
